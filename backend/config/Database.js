@@ -1,7 +1,7 @@
 import {Sequelize} from "sequelize";
 
 const db = new Sequelize('database067','root','',{
-    host: '34.57.209.31',
+    host: "34.57.209.31",
     dialect: 'mysql'
 });
 
